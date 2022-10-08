@@ -1,7 +1,24 @@
 ---
-title: "0mae"
+title: "Kimiho OMAE, Ph.D."
+about:
+  template: marquee
+  image: img/IMG_2800.JPG
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/0mae
 ---
 
-This is a Quarto website.
+- Microbiologist, Bioinformatician
+- Ph.D. in Agriculture
+- Postdoc at [Iwasaki Lab.](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Feindex.html&sa=D&sntz=1&usg=AOvVaw0S74K96XXFC5uTbwDkEmdR) (Department of Integrated Biosciences, Graduate School of Frontier Sciences, the University of Tokyo)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Email** | omae [at] k.u-tokyo.ac.jp
+
+# News
+
+**2022/08/06.** Gave an oral presentation in Society for Evolutionary Studies, Japan (SESJ), The 24th Annual Meeting at Numazu.
+<span style="color:red">Won the best postdoc oral presentation award!</span><br>
+→ [Press Release from GSFS, U.Tokyo](https://www.google.com/url?q=https%3A%2F%2Fwww.k.u-tokyo.ac.jp%2Finformation%2Fcategory%2Faward%2F9634.html&sa=D&sntz=1&usg=AOvVaw0TxxC6dNfBRTJYIMQkiBI3)
+
+**2022/03/02.** Gave an oral presentation in Society of Genome Microbiology, Japan (SGMJ), The 16th Annual Meeting (Online).

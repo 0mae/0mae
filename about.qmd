@@ -2,4 +2,22 @@
 title: "About"
 ---
 
-About this site
+## Education
+
+- **2020Mar.** 京都大学 農学研究科 応用生物科学専攻 博士後期 修了 / Ph.D., Division of Applied Biosciences, Kyoto University
+- **2016Mar.** 京都大学 農学研究科 応用生物科学専攻 修士課程 修了 / Master of Agriculture, Division of Applied Biosciences, Kyoto University
+- **2014Mar.** 京都大学 農学部 資源生物科学科 卒業 / Bachelor of Agriculture, Department of Bioresource Science, Kyoto University
+
+## Work experience
+
+2020Apr-Now.  特任研究員,  東京大学 大学院新領域創成科学研究科 先端生命科学専攻（岩崎研究室）/ Postdoc at Iwasaki Lab.  (Department of Integrated Biosciences, Graduate School of Frontier Sciences, the University of Tokyo)
+
+2016Apr-2019Mar.  日本学術振興会 特別研究員 (DC1),  京都大学 農学研究科 応用生物科学専攻（海洋分子微生物学分野）/ Research Fellow, Japan Society for the Promotion of Science (DC1) at Laboratory of Marine Microbiology  (Division of Applied Biosciences, Graduate School of Agriculture, Kyoto University)
+
+## Researches
+
+Keywords:  Microbiology, Extremophiles, Bioinformatics, Genomics, Molecular ecology, Evolution
+
+2020Apr-Now.  DNA 配列空間に新規機能を予測する情報技術（CREST プロジェクト；研究代表者：岩崎渉）/ Bioinformatics for predicting new functions in DNA sequence space (CREST project; Research Director: Wataru Iwasaki)
+
+2014Apr-2020Mar.  好熱性水素生成型一酸化炭素資化菌のゲノム解析・分子生態 / Genomic and molecular ecological studies on thermophilic hydrogenogenic carboxydotrophs
