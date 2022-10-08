@@ -2,20 +2,21 @@ project:
   type: website
   output-dir: docs
 
-#profile:
-#  default: japanese
-#  group: [japanese, english]
-
 website:
   title: "Kimiho OMAE"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: publication.qmd
         text: Publication
+      - href: tools.qmd
+        text: Tools
+    right: 
+      - href: index.qmd
+        text: English
+      - href: home_ja.qmd
+        text: Japanese
 
 format:
   html:
@@ -24,4 +25,3 @@ format:
       dark: superhero
     css: styles.css
     toc: true
-
