@@ -3,10 +3,10 @@ title: "大前 公保"
 about:
   template: marquee
   image: img/IMG_2800.JPG
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/0mae
+#  links:
+#    - icon: github
+#      text: Github
+#      href: https://github.com/0mae
 ---
 
 <i class="fa-solid fa-graduation-cap"></i> 博士（農学）

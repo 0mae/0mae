@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Kimiho OMAE"
+  title: "Kimiho OMAE, Ph.D."
   navbar:
     left:
       - href: index.qmd
