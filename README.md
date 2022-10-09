@@ -6,7 +6,7 @@ I am a microbiologist :microscope: who is interested in the genomic evolution.
 
 I will release bioinformatics software and database, and repositries for reproducible data analysis :computer: of my publication.
 
-Please see [personal website of Kimiho OMAE](http://0mae.github.io/) for more details on my research :pencil2:.
+Please see [personal website of Kimiho OMAE](https://0mae.github.io/0mae/) for more details on my research :pencil2:.
 
 <!--
 **0mae/0mae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
