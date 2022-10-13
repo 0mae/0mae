@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: publication.qmd
-        text: Publication
+        text: Publications
       - href: tools.qmd
         text: Tools
     right: 

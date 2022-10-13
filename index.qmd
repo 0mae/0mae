@@ -44,7 +44,7 @@ about:
 - **2020Apr-Now.** Postdoc at [Iwasaki Lab.](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Feindex.html&sa=D&sntz=1&usg=AOvVaw0S74K96XXFC5uTbwDkEmdR) (Department of Integrated Biosciences, Graduate School of Frontier Sciences, the University of Tokyo)
 - **2016Apr-2019Mar.** Research Fellow, Japan Society for the Promotion of Science (DC1) at [Laboratory of Marine Microbiology](http://www.google.com/url?q=http%3A%2F%2Fwww.microbiology.marine.kais.kyoto-u.ac.jp%2F&sa=D&sntz=1&usg=AOvVaw1hlrXyxdodQNS_s643cNXA) (Division of Applied Biosciences, Graduate School of Agriculture, Kyoto University)
 
-# Researches  {{< fa microscope >}}
+# Research topics {{< fa microscope >}}
 
 Microbiology {{< fa bacterium >}}, Extremophiles {{< fa volcano >}}, Bioinformatics {{< fa computer >}}, Genomics {{< fa dna >}},<br>Molecular ecology {{< fa flask >}}, Evolution {{< fa tree >}}
 
