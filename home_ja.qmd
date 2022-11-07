@@ -55,7 +55,7 @@ about:
 - **2020Apr-Now.** DNA 配列空間に新規機能を予測する情報技術（CREST プロジェクト；研究代表者：[岩崎渉](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Fiwasaki%2F&sa=D&sntz=1&usg=AOvVaw1GdzaXpliAWJHZwbcfojIi)）
 - **2014Apr-2020Mar.** 好熱性水素生成型一酸化炭素資化菌のゲノム解析・分子生態
 
-# Awards
+# Awards {{< fa award >}}
 
 - **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）<br>
 <span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）</span><br>
