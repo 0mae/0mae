@@ -6,17 +6,21 @@ website:
   title: "Kimiho OMAE, Ph.D."
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        menu:
+        - href: index.qmd
+          text: English
+        - href: home_ja.qmd
+          text: Japanese
       - href: publication.qmd
         text: Publications
       - href: tools.qmd
         text: Tools
-    right: 
-      - href: index.qmd
-        text: English
-      - href: home_ja.qmd
-        text: Japanese
+#    right: 
+#      - href: index.qmd
+#        text: English
+#      - href: home_ja.qmd
+#        text: Japanese
 
 format:
   html:

@@ -26,13 +26,16 @@ about:
 
 # News {{< fa newspaper >}}
 
-**2022/08/06.** 日本進化学会年大会第24回沼津大会で口頭発表を行いました。
+- **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）でポスター発表を行いました。<br>
+<span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）を受賞しました！</span><br>
+
+- **2022/08/06.** 日本進化学会年大会第24回沼津大会で口頭発表を行いました。<br>
 <span style="color:red">ポスドク口頭発表賞 最優秀賞を受賞しました！</span><br>
 <button type="button" class="btn btn-info" onclick="location.href='https://www.google.com/url?q=https%3A%2F%2Fwww.k.u-tokyo.ac.jp%2Finformation%2Fcategory%2Faward%2F9634.html&sa=D&sntz=1&usg=AOvVaw0TxxC6dNfBRTJYIMQkiBI3'">
 {{< fa newspaper >}} Press release UTokyo
 </button>
 
-**2022/03/02.** 第 16 回日本ゲノム微生物学会年会で口頭発表を行いました。
+- **2022/03/02.** 第 16 回日本ゲノム微生物学会年会で口頭発表を行いました。
 
 # Education {{< fa graduation-cap >}}
 
@@ -47,8 +50,18 @@ about:
 
 # Research topics {{< fa microscope >}}
 
-Microbiology {{< fa bacterium >}}, Extremophiles {{< fa volcano >}}, Bioinformatics {{< fa computer >}}, Genomics {{< fa dna >}},<br>Molecular ecology {{< fa flask >}}, Evolution {{< fa tree >}}
+微生物学 {{< fa bacterium >}} 極限微生物 {{< fa volcano >}} バイオインフォマティクス {{< fa computer >}} ゲノム {{< fa dna >}} 分子生態 {{< fa flask >}} <br>進化学 {{< fa tree >}}
 
 - **2020Apr-Now.** DNA 配列空間に新規機能を予測する情報技術（CREST プロジェクト；研究代表者：[岩崎渉](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Fiwasaki%2F&sa=D&sntz=1&usg=AOvVaw1GdzaXpliAWJHZwbcfojIi)）
 - **2014Apr-2020Mar.** 好熱性水素生成型一酸化炭素資化菌のゲノム解析・分子生態
 
+# Awards
+
+- **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）<br>
+<span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）</span><br>
+
+- **2022/08/06.** 日本進化学会年大会第24回沼津大会<br>
+<span style="color:red">ポスドク口頭発表賞 最優秀賞</span><br>
+<button type="button" class="btn btn-info btn-info" onclick="location.href='https://www.google.com/url?q=https%3A%2F%2Fwww.k.u-tokyo.ac.jp%2Finformation%2Fcategory%2Faward%2F9634.html&sa=D&sntz=1&usg=AOvVaw0TxxC6dNfBRTJYIMQkiBI3'">
+{{< fa newspaper >}} Press release UTokyo
+</button>
