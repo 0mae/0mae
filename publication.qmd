@@ -48,7 +48,7 @@ execute:
 
 ## 2015
 
-1. Yasuko Yoneda, Sanae I Kano, Takashi Yoshida, Eitaro Ikeda, Yuto Fukuyama, <u>Kimiho Omae</u>, Shigeko Kimura-Sakai, Takashi Daifuku, Tetsuhiro Watanabe, Yoshihiko Sako. **Detection of anaerobic carbon monoxide-oxidizing thermophiles in hydrothermal environments**. *FEMS Microbiol Ecol*, 91, fiv093. (2015) DOI: [10.1093/femsec/fiv093](https://doi.org/10.1093/femsec/fiv093)
+- 1. Yasuko Yoneda, Sanae I Kano, Takashi Yoshida, Eitaro Ikeda, Yuto Fukuyama, <u>Kimiho Omae</u>, Shigeko Kimura-Sakai, Takashi Daifuku, Tetsuhiro Watanabe, Yoshihiko Sako. **Detection of anaerobic carbon monoxide-oxidizing thermophiles in hydrothermal environments**. *FEMS Microbiol Ecol*, 91, fiv093. (2015) DOI: [10.1093/femsec/fiv093](https://doi.org/10.1093/femsec/fiv093)
 
 # Reviews
 

@@ -28,6 +28,9 @@ about:
 
 - **2022/11/01-02.** Gave an poster presentation in Society for Japanese Society of Microbial Ecology (JSME), The 35th Annual Meeting at Sapporo. <br>
 <span style="color:red">Received the Excellence Award (second place of 30) in postdoc poster presentation section!</span><br>
+<button type="button" class="btn btn-info" onclick="location.href='https://www.k.u-tokyo.ac.jp/information/category/award/9846.html'">
+{{< fa newspaper >}} Press release UTokyo
+</button>
 
 - **2022/08/06.** Gave an oral presentation in Society for Evolutionary Studies, Japan (SESJ), The 24th Annual Meeting at Numazu. <br>
 <span style="color:red">Won the best postdoc oral presentation award!</span><br>
@@ -59,6 +62,9 @@ Microbiology {{< fa bacterium >}}, Extremophiles {{< fa volcano >}}, Bioinformat
 
 - **2022/11/01-02.** Society for Japanese Society of Microbial Ecology (JSME), The 35th Annual Meeting at Sapporo.<br>
 <span style="color:red">Received the Excellence Award (second place of 30) in postdoc poster presentation section.</span><br>
+<button type="button" class="btn btn-info" onclick="location.href='https://www.k.u-tokyo.ac.jp/information/category/award/9846.html'">
+{{< fa newspaper >}} Press release UTokyo
+</button>
 
 - **2022/08/06.** Society for Evolutionary Studies, Japan (SESJ), The 24th Annual Meeting at Numazu.<br>
 <span style="color:red">Won the best postdoc oral presentation award.</span><br>
