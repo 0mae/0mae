@@ -50,9 +50,14 @@ about:
 
 # Research topics {{< fa microscope >}}
 
-微生物学 {{< fa bacterium >}} 極限微生物 {{< fa volcano >}} バイオインフォマティクス {{< fa computer >}} ゲノム {{< fa dna >}} 分子生態 {{< fa flask >}} <br>進化学 {{< fa tree >}}
+## Keywords
 
-- **2020Apr-Now.** DNA 配列空間に新規機能を予測する情報技術（CREST プロジェクト；研究代表者：[岩崎渉](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Fiwasaki%2F&sa=D&sntz=1&usg=AOvVaw1GdzaXpliAWJHZwbcfojIi)）
+微生物学 {{< fa bacterium >}} 極限微生物 {{< fa volcano >}} バイオインフォマティクス {{< fa computer >}} 比較ゲノム {{< fa dna >}}
+
+## Projects
+
+- **2020Apr-Now.** DNA 配列空間に新規機能を予測する情報技術<br>
+  （CREST プロジェクト；研究代表者：[岩崎渉](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Fiwasaki%2F&sa=D&sntz=1&usg=AOvVaw1GdzaXpliAWJHZwbcfojIi)）
 - **2014Apr-2020Mar.** 好熱性水素生成型一酸化炭素資化菌のゲノム解析・分子生態
 
 # Awards {{< fa award >}}

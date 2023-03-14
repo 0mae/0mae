@@ -50,9 +50,14 @@ about:
 
 # Research topics {{< fa microscope >}}
 
-Microbiology {{< fa bacterium >}}, Extremophiles {{< fa volcano >}}, Bioinformatics {{< fa computer >}}, Genomics {{< fa dna >}},<br>Molecular ecology {{< fa flask >}}, Evolution {{< fa tree >}}
+## Keywords
 
-- **2020Apr-Now.** Bioinformatics for predicting new functions in DNA sequence space (CREST project; Research Director: [Wataru Iwasaki](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Fiwasaki%2Feindex.html&sa=D&sntz=1&usg=AOvVaw2O6yS5VYnyvwGAQCixxaJ0))
+Microbiology {{< fa bacterium >}}, Extremophiles {{< fa volcano >}}, Bioinformatics {{< fa computer >}}, Comparative genomics {{< fa dna >}}
+
+## Projects
+
+- **2020Apr-Now.** Bioinformatics for predicting new functions in DNA sequence space<br>
+  (CREST project; Research Director: [Wataru Iwasaki](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Fiwasaki%2Feindex.html&sa=D&sntz=1&usg=AOvVaw2O6yS5VYnyvwGAQCixxaJ0))
 - **2014Apr-2020Mar.** Genomic and molecular ecological studies on thermophilic hydrogenogenic carboxydotrophs
 
 # Awards {{< fa award >}}
