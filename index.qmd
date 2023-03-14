@@ -2,20 +2,17 @@
 title: "Kimiho OMAE, Ph.D."
 about:
   template: marquee
-  image: img/IMG_2800.JPG
+  image: img/DSCF0217_3.JPG
 #  links:
 #    - icon: github
 #      text: Github
 #      href: https://github.com/0mae
 ---
 
-<i class="fa-solid fa-microscope"></i> Microbiologist, Bioinformatician
-
-<i class="fa-solid fa-graduation-cap"></i> Ph.D. in Agriculture
-
-<i class="fa-solid fa-building-columns"></i> Postdoc at [Iwasaki Lab.](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Feindex.html&sa=D&sntz=1&usg=AOvVaw0S74K96XXFC5uTbwDkEmdR) (Department of Integrated Biosciences, Graduate School of Frontier Sciences, the University of Tokyo)
-
-{{< fa envelope >}} omae [at] k.u-tokyo.ac.jp
+- **Ph.D. in Agriculture** <i class="fa-solid fa-graduation-cap"></i>
+- **Postdoc** at [Iwasaki Lab](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Feindex.html&sa=D&sntz=1&usg=AOvVaw0S74K96XXFC5uTbwDkEmdR)<br>
+  Department of Integrated Biosciences, Graduate School of Frontier Sciences,<br> the University of Tokyo, Japan <i class="fa-solid fa-building-columns"></i>
+- **Email**: omae [at] k.u-tokyo.ac.jp {{< fa envelope >}}
 
 <button type="button" class="btn btn-primary" onclick="location.href='https://scholar.google.co.jp/citations?user=QLsz6OMAAAAJ&hl=ja'">
 {{< ai google-scholar >}} Google Schalar
@@ -25,6 +22,8 @@ about:
 </button>
 
 # News {{< fa newspaper >}}
+
+- **2022/03/02.** Gave an oral presentation in Society of Genome Microbiology, Japan (SGMJ), The 17th Annual Meeting at Kisarazu.
 
 - **2022/11/01-02.** Gave an poster presentation in Society for Japanese Society of Microbial Ecology (JSME), The 35th Annual Meeting at Sapporo. <br>
 <span style="color:red">Received the Excellence Award (second place of 30) in postdoc poster presentation section!</span><br>
@@ -37,8 +36,6 @@ about:
 <button type="button" class="btn btn-info" onclick="location.href='https://www.google.com/url?q=https%3A%2F%2Fwww.k.u-tokyo.ac.jp%2Finformation%2Fcategory%2Faward%2F9634.html&sa=D&sntz=1&usg=AOvVaw0TxxC6dNfBRTJYIMQkiBI3'">
 {{< fa newspaper >}} Press release UTokyo
 </button>
-
-- **2022/03/02.** Gave an oral presentation in Society of Genome Microbiology, Japan (SGMJ), The 16th Annual Meeting (Online).
 
 # Education {{< fa graduation-cap >}}
 

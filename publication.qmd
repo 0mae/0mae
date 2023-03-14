@@ -54,7 +54,11 @@ execute:
 
 - 1. Yuto Fukuyama, Masao Inoue, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Anaerobic and hydrogenogenic carbon monoxide-oxidizing prokaryotes: Versatile microbial conversion of a toxic gas into an available energy**. Geoffrey Michael Gadd, Sima Sariaslani, eds. Advances in Applied Microbiology (Academic Press) 99-148. (2020)
 
-# Talks 
+# Talks
+
+## 2023
+
+- <u>大前公保</u>、西村 祐貴、富永 賢人、岩崎渉「**環境障壁の突破の背後にある原核生物の遺伝子の二者択一進化**」第１７回日本ゲノム微生物学会年会、3O1-03、かずさアカデミアホール（千葉県木更津市）、2023年3月8日-2023年3月10日（2023年3月10日；口頭発表）
 
 ## 2022
 

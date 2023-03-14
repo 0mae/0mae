@@ -1,0 +1,17 @@
+---
+title: "Old news"
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+# Japanese
+
+- **2022/03/02.** 第 16 回日本ゲノム微生物学会年会で口頭発表を行いました。
+
+
+# English
+
+- **2022/03/02.** Gave an oral presentation in Society of Genome Microbiology, Japan (SGMJ), The 16th Annual Meeting (Online).
+

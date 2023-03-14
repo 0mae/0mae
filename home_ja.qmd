@@ -2,20 +2,17 @@
 title: "大前 公保"
 about:
   template: marquee
-  image: img/IMG_2800.JPG
+  image: img/DSCF0217_3.JPG
 #  links:
 #    - icon: github
 #      text: Github
 #      href: https://github.com/0mae
 ---
 
-<i class="fa-solid fa-graduation-cap"></i> 博士（農学）
-
-<i class="fa-solid fa-microscope"></i> 微生物学、バイオインフォマティクス
-
-<i class="fa-solid fa-building-columns"></i> 東京大学 大学院新領域創成科学研究科 先端生命科学専攻 [岩崎研究室](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2F&sa=D&sntz=1&usg=AOvVaw3Gy5Xy7aDArMHTtQk2ya61) 特任研究員
-
-{{< fa envelope >}} omae [at] k.u-tokyo.ac.jp
+- **博士（農学）**<i class="fa-solid fa-graduation-cap"></i>
+- **特任研究員**＠[岩崎研究室](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2F&sa=D&sntz=1&usg=AOvVaw3Gy5Xy7aDArMHTtQk2ya61)<br>
+  東京大学 大学院新領域創成科学研究科 先端生命科学専攻 <i class="fa-solid fa-building-columns"></i>
+- **Email**: omae [at] k.u-tokyo.ac.jp {{< fa envelope >}}
 
 <button type="button" class="btn btn-primary" onclick="location.href='https://scholar.google.co.jp/citations?user=QLsz6OMAAAAJ&hl=ja'">
 {{< ai google-scholar >}} Google Schalar
@@ -25,6 +22,8 @@ about:
 </button>
 
 # News {{< fa newspaper >}}
+
+- **2022/03/02.** 第 17 回日本ゲノム微生物学会年会（木更津）で口頭発表を行いました。
 
 - **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）でポスター発表を行いました。<br>
 <span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）を受賞しました！</span><br>
@@ -37,8 +36,6 @@ about:
 <button type="button" class="btn btn-info" onclick="location.href='https://www.google.com/url?q=https%3A%2F%2Fwww.k.u-tokyo.ac.jp%2Finformation%2Fcategory%2Faward%2F9634.html&sa=D&sntz=1&usg=AOvVaw0TxxC6dNfBRTJYIMQkiBI3'">
 {{< fa newspaper >}} Press release UTokyo
 </button>
-
-- **2022/03/02.** 第 16 回日本ゲノム微生物学会年会で口頭発表を行いました。
 
 # Education {{< fa graduation-cap >}}
 
