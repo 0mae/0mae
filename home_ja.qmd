@@ -23,6 +23,8 @@ about:
 
 # News {{< fa newspaper >}}
 
+---
+
 - **2022/03/02.** 第 17 回日本ゲノム微生物学会年会（木更津）で口頭発表を行いました。
 
 - **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）でポスター発表を行いました。<br>
@@ -37,18 +39,24 @@ about:
 {{< fa newspaper >}} Press release UTokyo
 </button>
 
-# Education {{< fa graduation-cap >}}
+# About {{< fa circle-info >}}
+
+---
+
+## Education {{< fa graduation-cap >}}
 
 - **2020Mar.** 京都大学 農学研究科 応用生物科学専攻 博士後期 修了
 - **2016Mar.** 京都大学 農学研究科 応用生物科学専攻 修士課程 修了
 - **2014Mar.** 京都大学 農学部 資源生物科学科 卒業
 
-# Work experience {{< fa building >}}
+## Work experience {{< fa building >}}
 
 - **2020Apr-Now. 特任研究員**<br>東京大学 大学院新領域創成科学研究科 先端生命科学専攻（[岩崎研究室](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2F&sa=D&sntz=1&usg=AOvVaw3Gy5Xy7aDArMHTtQk2ya61)）
 - **2016Apr-2019Mar. 日本学術振興会 特別研究員 (DC1)**<br>京都大学 農学研究科 応用生物科学専攻（[海洋分子微生物学分野](http://www.google.com/url?q=http%3A%2F%2Fwww.microbiology.marine.kais.kyoto-u.ac.jp%2F&sa=D&sntz=1&usg=AOvVaw1hlrXyxdodQNS_s643cNXA)）
 
 # Research topics {{< fa microscope >}}
+
+---
 
 ## Keywords
 
@@ -61,6 +69,8 @@ about:
 - **2014Apr-2020Mar.** 好熱性水素生成型一酸化炭素資化菌のゲノム解析・分子生態
 
 # Awards {{< fa award >}}
+
+---
 
 - **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）<br>
 <span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）</span><br>

@@ -23,6 +23,8 @@ about:
 
 # News {{< fa newspaper >}}
 
+---
+
 - **2022/03/02.** Gave an oral presentation in Society of Genome Microbiology, Japan (SGMJ), The 17th Annual Meeting at Kisarazu.
 
 - **2022/11/01-02.** Gave an poster presentation in Society for Japanese Society of Microbial Ecology (JSME), The 35th Annual Meeting at Sapporo. <br>
@@ -37,6 +39,10 @@ about:
 {{< fa newspaper >}} Press release UTokyo
 </button>
 
+# About  {{< fa circle-info >}}
+
+---
+
 # Education {{< fa graduation-cap >}}
 
 - **2020Mar.** Ph.D., Division of Applied Biosciences, Kyoto University
@@ -50,6 +56,8 @@ about:
 
 # Research topics {{< fa microscope >}}
 
+---
+
 ## Keywords
 
 Microbiology {{< fa bacterium >}}, Extremophiles {{< fa volcano >}}, Bioinformatics {{< fa computer >}}, Comparative genomics {{< fa dna >}}
@@ -61,6 +69,8 @@ Microbiology {{< fa bacterium >}}, Extremophiles {{< fa volcano >}}, Bioinformat
 - **2014Apr-2020Mar.** Genomic and molecular ecological studies on thermophilic hydrogenogenic carboxydotrophs
 
 # Awards {{< fa award >}}
+
+---
 
 - **2022/11/01-02.** Society for Japanese Society of Microbial Ecology (JSME), The 35th Annual Meeting at Sapporo.<br>
 <span style="color:red">Received the Excellence Award (second place of 30) in postdoc poster presentation section.</span><br>
