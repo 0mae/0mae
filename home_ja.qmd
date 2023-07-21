@@ -25,7 +25,10 @@ about:
 
 ---
 
-- **2022/03/02.** 第 17 回日本ゲノム微生物学会年会（木更津）で口頭発表を行いました。
+- **2023/07/20.** 共著に加わった論文が Archives of Microbiology 誌から公開されました！
+  - Nishida *et al*. **Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures**. [https://doi.org/10.1007/s00203-023-03635-4](https://doi.org/10.1007/s00203-023-03635-4)
+
+- **2023/03/02.** 第 17 回日本ゲノム微生物学会年会（木更津）で口頭発表を行いました。
 
 - **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）でポスター発表を行いました。<br>
 <span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）を受賞しました！</span><br>
