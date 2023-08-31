@@ -36,12 +36,6 @@ about:
 {{< fa newspaper >}} Press release UTokyo
 </button>
 
-- **2022/08/06.** Gave an oral presentation in Society for Evolutionary Studies, Japan (SESJ), The 24th Annual Meeting at Numazu. <br>
-<span style="color:red">Won the best postdoc oral presentation award!</span><br>
-<button type="button" class="btn btn-info" onclick="location.href='https://www.google.com/url?q=https%3A%2F%2Fwww.k.u-tokyo.ac.jp%2Finformation%2Fcategory%2Faward%2F9634.html&sa=D&sntz=1&usg=AOvVaw0TxxC6dNfBRTJYIMQkiBI3'">
-{{< fa newspaper >}} Press release UTokyo
-</button>
-
 # About  {{< fa circle-info >}}
 
 ---
