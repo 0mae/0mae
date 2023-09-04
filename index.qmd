@@ -20,6 +20,10 @@ about:
 <button type="button" class="btn btn-dark" onclick="location.href='https://github.com/0mae'">
 {{< fa brands github >}} GitHub
 </button>
+<button type="button" class="btn btn-secondary" onclick="location.href='https://researchmap.jp/omaek?lang=en'">
+researchmap
+</button>
+
 
 # News {{< fa newspaper >}}
 
