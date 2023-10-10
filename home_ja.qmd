@@ -15,7 +15,7 @@ about:
 - **Email**: omae [at] k.u-tokyo.ac.jp {{< fa envelope >}}
 
 <button type="button" class="btn btn-primary" onclick="location.href='https://scholar.google.co.jp/citations?user=QLsz6OMAAAAJ&hl=ja'">
-{{< ai google-scholar >}} Google Schalar
+{{< ai google-scholar >}} Google Scholar
 </button>
 <button type="button" class="btn btn-dark" onclick="location.href='https://github.com/0mae'">
 {{< fa brands github >}} GitHub
