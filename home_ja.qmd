@@ -10,9 +10,9 @@ about:
 ---
 
 - **博士（農学）**<i class="fa-solid fa-graduation-cap"></i>
-- **特任研究員**＠[岩崎研究室](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2F&sa=D&sntz=1&usg=AOvVaw3Gy5Xy7aDArMHTtQk2ya61)<br>
-  東京大学大学院 新領域創成科学研究科 先端生命科学専攻 <i class="fa-solid fa-building-columns"></i>
-- **Email**: omae [at] k.u-tokyo.ac.jp {{< fa envelope >}}
+- **研究員**<br>
+  理化学研究所 開拓研究本部 [鈴木地球・惑星生命科学研究室](https://www.riken.jp/research/labs/chief/geobiol_astrobiol/index.html) <i class="fa-solid fa-building-columns"></i>
+- **Email**: kimiho.omae [at] riken.jp {{< fa envelope >}}
 
 <button type="button" class="btn btn-primary" onclick="location.href='https://scholar.google.co.jp/citations?user=QLsz6OMAAAAJ&hl=ja'">
 {{< ai google-scholar >}} Google Scholar
@@ -29,16 +29,12 @@ researchmap
 
 ---
 
+- **2023/11/28-29.** 日本微生物生態学会第36回大会（浜松）でポスター発表を行いました。<br>
+
 - **2023/07/20.** 共著に加わった論文が Archives of Microbiology 誌から公開されました！
   - Nishida *et al*. **Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures**. [https://doi.org/10.1007/s00203-023-03635-4](https://doi.org/10.1007/s00203-023-03635-4)
 
 - **2023/03/02.** 第 17 回日本ゲノム微生物学会年会（木更津）で口頭発表を行いました。
-
-- **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）でポスター発表を行いました。<br>
-<span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）を受賞しました！</span><br>
-<button type="button" class="btn btn-info" onclick="location.href='https://www.k.u-tokyo.ac.jp/information/category/award/9846.html'">
-{{< fa newspaper >}} Press release UTokyo
-</button>
 
 # About {{< fa circle-info >}}
 
@@ -52,7 +48,8 @@ researchmap
 
 ## Work experience {{< fa building >}}
 
-- **2020Apr-Now. 特任研究員**<br>東京大学大学院 新領域創成科学研究科 先端生命科学専攻（[岩崎研究室](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2F&sa=D&sntz=1&usg=AOvVaw3Gy5Xy7aDArMHTtQk2ya61)）
+- **2024Apr-Now. 研究員**<br>理化学研究所 開拓研究本部 [鈴木地球・惑星生命科学研究室](https://www.riken.jp/research/labs/chief/geobiol_astrobiol/index.html)
+- **2020Apr-2024Mar. 特任研究員**<br>東京大学大学院 新領域創成科学研究科 先端生命科学専攻
 - **2016Apr-2019Mar. 日本学術振興会 特別研究員 (DC1)**<br>京都大学大学院 農学研究科 応用生物科学専攻（[海洋分子微生物学分野](http://www.google.com/url?q=http%3A%2F%2Fwww.microbiology.marine.kais.kyoto-u.ac.jp%2F&sa=D&sntz=1&usg=AOvVaw1hlrXyxdodQNS_s643cNXA)）
 
 # Research topics {{< fa microscope >}}
@@ -65,8 +62,7 @@ researchmap
 
 ## Projects
 
-- **2020Apr-Now.** DNA 配列空間に新規機能を予測する情報技術<br>
-  （CREST プロジェクト；研究代表者：[岩崎渉](http://www.google.com/url?q=http%3A%2F%2Fiwasakilab.k.u-tokyo.ac.jp%2Fiwasaki%2F&sa=D&sntz=1&usg=AOvVaw1GdzaXpliAWJHZwbcfojIi)）
+- **2020Apr-2024Mar.** DNA 配列空間に新規機能を予測する情報技術（CREST プロジェクト）
 - **2014Apr-2020Mar.** 好熱性水素生成型一酸化炭素資化菌のゲノム解析・分子生態
 
 # Awards {{< fa award >}}

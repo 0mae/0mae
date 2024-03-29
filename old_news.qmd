@@ -8,6 +8,12 @@ execute:
 
 # Japanese
 
+- **2022/11/01-02.** 日本微生物生態学会第35回大会（札幌）でポスター発表を行いました。<br>
+<span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）を受賞しました！</span><br>
+<button type="button" class="btn btn-info" onclick="location.href='https://www.k.u-tokyo.ac.jp/information/category/award/9846.html'">
+{{< fa newspaper >}} Press release UTokyo
+</button>
+
 - **2022/08/06.** 日本進化学会年大会第24回沼津大会で口頭発表を行いました。<br>
 <span style="color:red">ポスドク口頭発表賞 最優秀賞を受賞しました！</span><br>
 <button type="button" class="btn btn-info" onclick="location.href='https://www.google.com/url?q=https%3A%2F%2Fwww.k.u-tokyo.ac.jp%2Finformation%2Fcategory%2Faward%2F9634.html&sa=D&sntz=1&usg=AOvVaw0TxxC6dNfBRTJYIMQkiBI3'">
@@ -18,6 +24,12 @@ execute:
 
 
 # English
+
+- **2022/11/01-02.** Gave an poster presentation in Society for Japanese Society of Microbial Ecology (JSME), The 35th Annual Meeting at Sapporo. <br>
+<span style="color:red">Received the Excellence Award (second place of 30) in postdoc poster presentation section!</span><br>
+<button type="button" class="btn btn-info" onclick="location.href='https://www.k.u-tokyo.ac.jp/information/category/award/9846.html'">
+{{< fa newspaper >}} Press release UTokyo
+</button>
 
 - **2022/08/06.** Gave an oral presentation in Society for Evolutionary Studies, Japan (SESJ), The 24th Annual Meeting at Numazu. <br>
 <span style="color:red">Won the best postdoc oral presentation award!</span><br>
