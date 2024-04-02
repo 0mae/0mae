@@ -68,9 +68,6 @@ execute:
 
 - <u>大前公保</u>、西村 祐貴、富永 賢人、岩崎渉「**網羅的対偶遺伝学：遺伝子の二者択一進化を利用した機能未知遺伝子の新規機能予測法**」日本進化学会年大会第24回沼津大会、F-2、プラサヴェルデ（静岡県沼津市）、2022年8月4日-2022年8月7日（2022年8月6日；口頭発表）<br>
 <span style="color:red">ポスドク口頭発表賞 最優秀賞受賞！</span><br>
-<button type="button" class="btn btn-info btn-info" onclick="location.href='https://www.google.com/url?q=https%3A%2F%2Fwww.k.u-tokyo.ac.jp%2Finformation%2Fcategory%2Faward%2F9634.html&sa=D&sntz=1&usg=AOvVaw0TxxC6dNfBRTJYIMQkiBI3'">
-{{< fa newspaper >}} Press release UTokyo
-</button>
 
 - <u>大前公保</u>、⻄村祐貴、富永賢人、岩崎渉． 「**網羅的対偶遺伝学による機能未知遺伝子の新規機能予測法**」．第16回日本ゲノム微生物学会年会，オンライン．（2022年3月2日；口頭発表）
 
@@ -112,9 +109,6 @@ execute:
 
 - <u>大前 公保</u>、西村 祐貴、富永 賢人、岩崎 渉「**原核生物の環境適応が駆動する遺伝子の二者択一進化**」日本微生物生態学会第35回大会、PA-41、札幌コンベンションセンター（北海道札幌市）、2022年10月31日-2022年11月3日（2022年11月1-2日；ポスター発表）<br>
 <span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞受賞（30演題中2位）！</span><br>
-<button type="button" class="btn btn-info" onclick="location.href='https://www.k.u-tokyo.ac.jp/information/category/award/9846.html'">
-{{< fa newspaper >}} Press release UTokyo
-</button>
 
 ## 2015
 
