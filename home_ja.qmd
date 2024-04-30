@@ -28,12 +28,13 @@ researchmap
 
 ---
 
+- **2024/04/30.** 共著に加わった論文が PNAS 誌から公開されました！
+  - Tominaga *et al*. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in Vibrionaceae**. [https://doi.org/10.1073/pnas.2317954121](https://doi.org/10.1073/pnas.2317954121)
+
 - **2023/11/28-29.** 日本微生物生態学会第36回大会（浜松）でポスター発表を行いました。<br>
 
 - **2023/07/20.** 共著に加わった論文が Archives of Microbiology 誌から公開されました！
   - Nishida *et al*. **Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures**. [https://doi.org/10.1007/s00203-023-03635-4](https://doi.org/10.1007/s00203-023-03635-4)
-
-- **2023/03/02.** 第 17 回日本ゲノム微生物学会年会（木更津）で口頭発表を行いました。
 
 # About {{< fa circle-info >}}
 
