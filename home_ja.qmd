@@ -29,7 +29,7 @@ researchmap
 ---
 
 - **2024/04/30.** 共著に加わった論文が PNAS 誌から公開されました！
-  - Tominaga *et al*. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in Vibrionaceae**. [https://doi.org/10.1073/pnas.2317954121](https://doi.org/10.1073/pnas.2317954121)
+  - Tominaga *et al*. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. [https://doi.org/10.1073/pnas.2317954121](https://doi.org/10.1073/pnas.2317954121)
 
 - **2023/11/28-29.** 日本微生物生態学会第36回大会（浜松）でポスター発表を行いました。<br>
 

@@ -14,7 +14,7 @@ execute:
 
 ## 2024
 
-- 16. Kento Tominaga, Shogo Ozaki, Shohei Sato, Tsutomu Katayama, Yuki Nishimura, <u>Kimiho Omae</u>, and Wataru Iwasaki. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in Vibrionaceae**. *Proc Natl Acad Sci USA* 121, e2317954121. (2024) DOI: [10.1073/pnas.2317954121](http://dx.doi.org/10.1073/pnas.2317954121)
+- 16. Kento Tominaga, Shogo Ozaki, Shohei Sato, Tsutomu Katayama, Yuki Nishimura, <u>Kimiho Omae</u>, and Wataru Iwasaki. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. *Proc Natl Acad Sci USA* 121, e2317954121. (2024) DOI: [10.1073/pnas.2317954121](http://dx.doi.org/10.1073/pnas.2317954121)
 
 ## 2023
 

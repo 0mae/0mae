@@ -29,7 +29,7 @@ researchmap
 ---
 
 - **2024/04/30.** A paper I co-authored has been published in the PNAS Journal!
-  - Tominaga *et al*. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in Vibrionaceae**. [https://doi.org/10.1073/pnas.2317954121](https://doi.org/10.1073/pnas.2317954121)
+  - Tominaga *et al*. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. [https://doi.org/10.1073/pnas.2317954121](https://doi.org/10.1073/pnas.2317954121)
 
 - **2023/11/28-29.** Gave an poster presentation in Society for Japanese Society of Microbial Ecology (JSME), The 36th Annual Meeting at Hamamatsu. <br>
 
