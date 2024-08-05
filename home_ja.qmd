@@ -2,7 +2,7 @@
 title: "大前 公保"
 about:
   template: marquee
-  image: img/DSCF0217_3.JPG
+  image: img/DSCF0217_4.JPG
 #  links:
 #    - icon: github
 #      text: Github
