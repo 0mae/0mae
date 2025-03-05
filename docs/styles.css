@@ -1,1 +1,23 @@
 /* css styles */
+.scroll-box {
+    width: 100%;
+    max-height: 400px;  /* 高さを制限 */
+    overflow-y: auto;   /* 必要に応じてスクロールを表示 */
+    border: 1px solid #ffffff00;
+    padding: 10px;
+    background-color: #ffffff00;
+}
+
+/* スクロールバーのカスタマイズ (Chrome, Safari 用) */
+.scroll-box::-webkit-scrollbar {
+    width: 8px;
+}
+
+.scroll-box::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 5px;
+}
+
+.scroll-box::-webkit-scrollbar-track {
+    background-color: #eee;
+}

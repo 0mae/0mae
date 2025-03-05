@@ -79,7 +79,8 @@ $input-group-addon-bg:                  $gray-200 !default !default;
 
 // Navbar
 
-$navbar-bg:                         $primary;
+//$navbar-bg:                         $primary;
+$navbar-bg:                         $light;
 $navbar-dark-color:                 rgba($white, .6) !default;
 $navbar-dark-hover-color:           $white !default;
 $navbar-light-hover-color:          $body-color !default;

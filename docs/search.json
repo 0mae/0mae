@@ -2,23 +2,72 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Kimiho OMAE, Ph.D.",
+    "title": "Kimiho OMAE / 大前 公保",
     "section": "",
-    "text": "Ph.D. in Agriculture \nResearcher at Geobiology and Astrobiology Laboratory RIKEN Cluster for Pioneering Research (CPR), RIKEN, Japan"
+    "text": "Research Scientist Geobiology and Astrobiology Laboratory, RIKEN Cluster for Pioneering Research 理化学研究所 開拓研究本部 鈴木地球・惑星生命科学研究室 研究員"
   },
   {
-    "objectID": "index.html#keywords",
-    "href": "index.html#keywords",
-    "title": "Kimiho OMAE, Ph.D.",
+    "objectID": "about_en.html",
+    "href": "about_en.html",
+    "title": "News ",
+    "section": "",
+    "text": "2025/02/24. A preprint I co-authored is now available! Konno et al. “Repeatability of protein structural evolution following convergent gene fusions”. bioRxiv (2025) / X post (@utnk1)\n2024/04/30. A paper I co-authored has been published in the PNAS Journal! Tominaga et al. “Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in Vibrionaceae”. Proc Natl Acad Sci USA (2024)\n2023/11/28-29. Gave an poster presentation Society for Japanese Society of Microbial Ecology (JSME), The 36th Annual Meeting at Hamamatsu.\n2023/07/20. A paper I co-authored has been published in the Archives of Microbiology Journal! Nishida et al. “Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures”. Arch Microbiol (2023)\n2023/03/02. Gave an oral presentation Society of Genome Microbiology, Japan (SGMJ), The 17th Annual Meeting at Kisarazu.\n2022/11/01-02. Gave an poster presentation Society for Japanese Society of Microbial Ecology (JSME), The 35th Annual Meeting at Sapporo. Received the Excellence Award (second place of 30) in postdoc poster presentation section!\n2022/08/06. Gave an oral presentation Society for Evolutionary Studies, Japan (SESJ), The 24th Annual Meeting at Numazu. Won the best postdoc oral presentation award!\n2022/03/02. Gave an oral presentation Society of Genome Microbiology, Japan (SGMJ), The 16th Annual Meeting (Online)."
+  },
+  {
+    "objectID": "about_en.html#keywords",
+    "href": "about_en.html#keywords",
+    "title": "News ",
     "section": "Keywords",
     "text": "Keywords\nMicrobiology , Extremophiles , Bioinformatics , Comparative genomics"
   },
   {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Kimiho OMAE, Ph.D.",
+    "objectID": "about_en.html#projects",
+    "href": "about_en.html#projects",
+    "title": "News ",
     "section": "Projects",
     "text": "Projects\n\n2020Apr-2024Mar. Bioinformatics for predicting new functions in DNA sequence space (CREST project)\n2014Apr-2020Mar. Genomic and molecular ecological studies on thermophilic hydrogenogenic carboxydotrophs"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools",
+    "section": "",
+    "text": "0mae"
+  },
+  {
+    "objectID": "about_ja.html",
+    "href": "about_ja.html",
+    "title": "News ",
+    "section": "",
+    "text": "2025/02/24. 共著に加わった論文のプレプリントが公開されました！ Konno et al. “Repeatability of protein structural evolution following convergent gene fusions”. bioRxiv (2025) / X post (@utnk1)\n2024/04/30. 共著に加わった論文が PNAS 誌から公開されました！ Tominaga et al. “Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in Vibrionaceae”. Proc Natl Acad Sci USA (2024)\n2023/11/28-29. ポスター発表を行いました。 日本微生物生態学会第36回大会（浜松）\n2023/07/20. 共著に加わった論文が Archives of Microbiology 誌から公開されました！ Nishida et al. “Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures”. Arch Microbiol (2023)\n2023/03/02. 口頭発表を行いました。 第 17 回日本ゲノム微生物学会年会（木更津）\n2022/11/01-02. ポスター発表を行いました。 日本微生物生態学会第35回大会（札幌）→ 優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）を受賞しました！\n2022/08/06. 口頭発表を行いました。 日本進化学会年大会第24回沼津大会 → ポスドク口頭発表賞 最優秀賞を受賞しました！\n2022/03/02. 口頭発表を行いました。 第 16 回日本ゲノム微生物学会年会"
+  },
+  {
+    "objectID": "about_ja.html#education",
+    "href": "about_ja.html#education",
+    "title": "News ",
+    "section": "Education",
+    "text": "Education\n\n2020Mar. 京都大学大学院 農学研究科 応用生物科学専攻 博士後期 修了\n2016Mar. 京都大学大学院 農学研究科 応用生物科学専攻 修士課程 修了\n2014Mar. 京都大学 農学部 資源生物科学科 卒業"
+  },
+  {
+    "objectID": "about_ja.html#work-experience",
+    "href": "about_ja.html#work-experience",
+    "title": "News ",
+    "section": "Work experience",
+    "text": "Work experience\n\n2024Apr-Now. 研究員理化学研究所 開拓研究本部 鈴木地球・惑星生命科学研究室\n2020Apr-2024Mar. 特任研究員東京大学大学院 新領域創成科学研究科 先端生命科学専攻\n2016Apr-2019Mar. 日本学術振興会 特別研究員 (DC1)京都大学大学院 農学研究科 応用生物科学専攻（海洋分子微生物学分野）"
+  },
+  {
+    "objectID": "about_ja.html#keywords",
+    "href": "about_ja.html#keywords",
+    "title": "News ",
+    "section": "Keywords",
+    "text": "Keywords\n微生物学  極限微生物  バイオインフォマティクス  比較ゲノム"
+  },
+  {
+    "objectID": "about_ja.html#projects",
+    "href": "about_ja.html#projects",
+    "title": "News ",
+    "section": "Projects",
+    "text": "Projects\n\n2020Apr-2024Mar. DNA 配列空間に新規機能を予測する情報技術（CREST プロジェクト）\n2014Apr-2020Mar. 好熱性水素生成型一酸化炭素資化菌のゲノム解析・分子生態"
   },
   {
     "objectID": "publication.html",
@@ -215,54 +264,5 @@
     "title": "Publications",
     "section": "2015",
     "text": "2015\n\nYuto Fukuyama, Kimiho Omae, Yasuko Yoneda, Kyosuke Takao, Takashi Honda, Takashi Yoshida, Yoshihiko Sako. RNA-Seq provides insights into the novel carbon monoxide metabolism in Carboxydothermus pertinax. 2015日本微生物生態学会第30回、PF-072、土浦亀城プラザ、2015年10月17日-2015年10月20日日（ポスター発表）\n見世健太、池田栄太朗、大前公保、福山宥斗、吉田天士、左子芳彦「次世代シーケンサーを用いた高温強酸温泉における微生物群集構造解析」平成27年度日本水産学会春季大会、729、東京海洋大学（品川キャンパス）、2015年3月27日-2015年3月31日（口頭発表）\n福山宥斗、大前公保、本田貴史、池田栄太朗、吉田天士、左子芳彦「網羅的転写解析による一酸化(CO)炭素資化性菌のCO代謝機構の解明」平成27年度日本水産学会春季大会、732、東京海洋大学（品川キャンパス）、2015年3月27日-2015年3月31日（口頭発表）"
-  },
-  {
-    "objectID": "home_ja.html",
-    "href": "home_ja.html",
-    "title": "大前 公保",
-    "section": "",
-    "text": "博士（農学）\n研究員 理化学研究所 開拓研究本部 鈴木地球・惑星生命科学研究室"
-  },
-  {
-    "objectID": "home_ja.html#education",
-    "href": "home_ja.html#education",
-    "title": "大前 公保",
-    "section": "Education ",
-    "text": "Education \n\n2020Mar. 京都大学大学院 農学研究科 応用生物科学専攻 博士後期 修了\n2016Mar. 京都大学大学院 農学研究科 応用生物科学専攻 修士課程 修了\n2014Mar. 京都大学 農学部 資源生物科学科 卒業"
-  },
-  {
-    "objectID": "home_ja.html#work-experience",
-    "href": "home_ja.html#work-experience",
-    "title": "大前 公保",
-    "section": "Work experience ",
-    "text": "Work experience \n\n2024Apr-Now. 研究員理化学研究所 開拓研究本部 鈴木地球・惑星生命科学研究室\n2020Apr-2024Mar. 特任研究員東京大学大学院 新領域創成科学研究科 先端生命科学専攻\n2016Apr-2019Mar. 日本学術振興会 特別研究員 (DC1)京都大学大学院 農学研究科 応用生物科学専攻（海洋分子微生物学分野）"
-  },
-  {
-    "objectID": "home_ja.html#keywords",
-    "href": "home_ja.html#keywords",
-    "title": "大前 公保",
-    "section": "Keywords",
-    "text": "Keywords\n微生物学  極限微生物  バイオインフォマティクス  比較ゲノム"
-  },
-  {
-    "objectID": "home_ja.html#projects",
-    "href": "home_ja.html#projects",
-    "title": "大前 公保",
-    "section": "Projects",
-    "text": "Projects\n\n2020Apr-2024Mar. DNA 配列空間に新規機能を予測する情報技術（CREST プロジェクト）\n2014Apr-2020Mar. 好熱性水素生成型一酸化炭素資化菌のゲノム解析・分子生態"
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Tools",
-    "section": "",
-    "text": "0mae"
-  },
-  {
-    "objectID": "old_news.html",
-    "href": "old_news.html",
-    "title": "Old news",
-    "section": "",
-    "text": "Japanese\n\n2023/03/02. 第 17 回日本ゲノム微生物学会年会（木更津）で口頭発表を行いました。\n2022/11/01-02. 日本微生物生態学会第35回大会（札幌）でポスター発表を行いました。 優秀ポスター賞 博士号取得者の部 優秀賞（30演題中2位）を受賞しました！   Press release UTokyo \n2022/08/06. 日本進化学会年大会第24回沼津大会で口頭発表を行いました。 ポスドク口頭発表賞 最優秀賞を受賞しました！   Press release UTokyo \n2022/03/02. 第 16 回日本ゲノム微生物学会年会で口頭発表を行いました。\n\n\n\nEnglish\n\n2023/03/02. Gave an oral presentation in Society of Genome Microbiology, Japan (SGMJ), The 17th Annual Meeting at Kisarazu.\n2022/11/01-02. Gave an poster presentation in Society for Japanese Society of Microbial Ecology (JSME), The 35th Annual Meeting at Sapporo.  Received the Excellence Award (second place of 30) in postdoc poster presentation section!   Press release UTokyo \n2022/08/06. Gave an oral presentation in Society for Evolutionary Studies, Japan (SESJ), The 24th Annual Meeting at Numazu.  Won the best postdoc oral presentation award!   Press release UTokyo \n2022/03/02. Gave an oral presentation in Society of Genome Microbiology, Japan (SGMJ), The 16th Annual Meeting (Online)."
   }
 ]

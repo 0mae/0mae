@@ -3,14 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Kimiho OMAE, Ph.D."
+  title: "Kimiho OMAE"
   navbar:
     left:
-      - text: Home
+      - href: index.qmd
+        text: Home
+      - text: About
         menu:
-        - href: index.qmd
+        - href: about_en.qmd
           text: English
-        - href: home_ja.qmd
+        - href: about_ja.qmd
           text: Japanese
       - href: publication.qmd
         text: Publications
