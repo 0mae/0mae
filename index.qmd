@@ -29,15 +29,16 @@ researchmap
 ---
 
 - **2025/02/24.** A preprint I co-authored is now available!
-  - Konno *et al*. **Repeatability of protein structural evolution following convergent gene fusions**. [https://doi.org/10.1101/2025.02.23.639786](https://doi.org/10.1101/2025.02.23.639786) ([X post by @utnk1](https://x.com/utnk1/status/1894018943267795408))
+  - Konno *et al*. **Repeatability of protein structural evolution following convergent gene fusions**.<br>
+    [*bioRxiv* (2025)](https://doi.org/10.1101/2025.02.23.639786) / [X post (@utnk1)](https://x.com/utnk1/status/1894018943267795408)
 
 - **2024/04/30.** A paper I co-authored has been published in the PNAS Journal!
-  - Tominaga *et al*. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. [https://doi.org/10.1073/pnas.2317954121](https://doi.org/10.1073/pnas.2317954121)
+  - Tominaga *et al*. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. [*Proc Natl Acad Sci USA* (2024)](https://doi.org/10.1073/pnas.2317954121)
 
 - **2023/11/28-29.** Gave an poster presentation in Society for Japanese Society of Microbial Ecology (JSME), The 36th Annual Meeting at Hamamatsu. <br>
 
 - **2023/07/20.** A paper I co-authored has been published in the Archives of Microbiology Journal!
-  - Nishida *et al*. **Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures**. [https://doi.org/10.1007/s00203-023-03635-4](https://doi.org/10.1007/s00203-023-03635-4)
+  - Nishida *et al*. **Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures**. [*Arch Microbiol* (2023)](https://doi.org/10.1007/s00203-023-03635-4)
 
 # About  {{< fa circle-info >}}
 
