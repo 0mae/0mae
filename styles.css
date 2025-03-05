@@ -1,23 +1,23 @@
 /* css styles */
 .scroll-box {
-    width: 100%;
-    max-height: 400px;  /* 高さを制限 */
-    overflow-y: auto;   /* 必要に応じてスクロールを表示 */
-    border: 1px solid #ffffff00;
-    padding: 10px;
-    background-color: #ffffff00;
+    width: 100% !important;
+    max-height: 400px !important;  /* 高さを制限 */
+    overflow-y: auto !important;   /* 必要に応じてスクロールを表示 */
+    border: 1px solid #ffffff00 !important;
+    padding: 10px !important;
+    background-color: #ffffff00 !important;
 }
 
 /* スクロールバーのカスタマイズ (Chrome, Safari 用) */
 .scroll-box::-webkit-scrollbar {
-    width: 8px;
+    width: 8px !important;
 }
 
 .scroll-box::-webkit-scrollbar-thumb {
-    background-color: #888;
-    border-radius: 5px;
+    background-color: #888 !important;
+    border-radius: 5px !important;
 }
 
 .scroll-box::-webkit-scrollbar-track {
-    background-color: #eee;
+    background-color: #eee !important;
 }
