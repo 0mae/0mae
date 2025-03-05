@@ -28,6 +28,9 @@ researchmap
 
 ---
 
+- **2025/02/24.** 共著に加わった論文のプレプリントが公開されました！
+  - Konno *et al*. **Repeatability of protein structural evolution following convergent gene fusions**. [https://doi.org/10.1101/2025.02.23.639786](https://doi.org/10.1101/2025.02.23.639786) ([X post by @utnk1](https://x.com/utnk1/status/1894018943267795408))
+
 - **2024/04/30.** 共著に加わった論文が PNAS 誌から公開されました！
   - Tominaga *et al*. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. [https://doi.org/10.1073/pnas.2317954121](https://doi.org/10.1073/pnas.2317954121)
 
