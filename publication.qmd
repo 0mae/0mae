@@ -1,94 +1,69 @@
 ---
-title: "Publications"
 execute:
   echo: false
   message: false
   warning: false
 ---
 
+# Research Papers
+
 <button type="button" class="btn btn-primary" onclick="location.href='https://scholar.google.co.jp/citations?user=QLsz6OMAAAAJ&hl=ja'">
 {{< ai google-scholar >}} Google Scholar
 </button>
 
-# Journal Papers
+- [17] Naoki Konno, Keita Miyake, Satoshi Nishino, <u>Kimiho Omae</u>, Haruaki Yanagisawa, Saburo Tsuru, Yuki Nishimura, Masahide Kikkawa, Chikara Furusawa and Wataru Iwasaki. **Repeatability of protein structural evolution following convergent gene fusions**. *bioRxiv* February 24. (2025) DOI: [10.1101/2025.02.23.639786](https://doi.org/10.1101/2025.02.23.639786)<br>
+[X post (@utnk1)](https://x.com/utnk1/status/1894018943267795408)
 
-## 2025
+- [16] Kento Tominaga, Shogo Ozaki, Shohei Sato, Tsutomu Katayama, Yuki Nishimura, <u>Kimiho Omae</u>, and Wataru Iwasaki. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. *Proc Natl Acad Sci USA* 121, e2317954121. (2024) DOI: [10.1073/pnas.2317954121](http://dx.doi.org/10.1073/pnas.2317954121)
 
-- 17. Naoki Konno, Keita Miyake, Satoshi Nishino, <u>Kimiho Omae</u>, Haruaki Yanagisawa, Saburo Tsuru, Yuki Nishimura, Masahide Kikkawa, Chikara Furusawa and Wataru Iwasaki. **Repeatability of protein structural evolution following convergent gene fusions**. *bioRxiv* February 24. (2025) DOI: [10.1101/2025.02.23.639786](https://doi.org/10.1101/2025.02.23.639786)<br>
-  [X post (@utnk1)](https://x.com/utnk1/status/1894018943267795408)
+- [15] Shiho Nishida, <u>Kimiho Omae</u>, Masao Inoue, Yoshihiko Sako, Ryoma Kamikawa & Takashi Yoshida. **Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures**. *Arch Microbiol* 205, 292. (2023) DOI: [10.1007/s00203-023-03635-4](https://doi.org/10.1007/s00203-023-03635-4)
 
-## 2024
+- [14] Masao Inoue, <u>Kimiho Omae</u>, Issei Nakamoto, Ryoma Kamikawa, Takashi Yoshida, Yoshihiko Sako. **Biome-specific distribution of Ni-containing carbon monoxide dehydrogenases**. *Extremophiles*, 26, 9. (2022) DOI: [10.1007/s00792-022-01259-y](https://doi.org/10.1007/s00792-022-01259-y)
 
-- 16. Kento Tominaga, Shogo Ozaki, Shohei Sato, Tsutomu Katayama, Yuki Nishimura, <u>Kimiho Omae</u>, and Wataru Iwasaki. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. *Proc Natl Acad Sci USA* 121, e2317954121. (2024) DOI: [10.1073/pnas.2317954121](http://dx.doi.org/10.1073/pnas.2317954121)
+- [13] <u>Kimiho Omae</u>, Tatsuki Oguro, Masao Inoue, Yuto Fukuyama, Takashi Yoshida, Yoshihiko Sako. **Diversity analysis of thermophilic hydrogenogenic carboxydotrophs by carbon monoxide dehydrogenase amplicon sequencing using new primers**. *Extremophiles*, 25, 61–76. (2021) DOI: [10.1007/s00792-020-01211-y](https://doi.org/10.1007/s00792-020-01211-y)
 
-## 2023
+- [12] Masao Inoue, Hikaru Izumihara, Yuto Fukuyama, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Carbon monoxide-dependent transcriptional changes in a thermophilic, carbon monoxide-utilizing, hydrogen-evolving bacterium *Calderihabitans maritimus* KKC1 revealed by transcriptomic analysis**. *Extremophiles*, 24, 551–564. (2020) DOI: [10.1007/s00792-020-01175-z](https://doi.org/10.1007/s00792-020-01175-z)
 
-- 15. Shiho Nishida, <u>Kimiho Omae</u>, Masao Inoue, Yoshihiko Sako, Ryoma Kamikawa & Takashi Yoshida. **Construction of multiple metagenome assembled genomes containing carbon monoxide dehydrogenases from anaerobic carbon monoxide enrichment cultures**. *Arch Microbiol* 205, 292. (2023) DOI: [10.1007/s00203-023-03635-4](https://doi.org/10.1007/s00203-023-03635-4)
+- [11] Florian Prodinger, Hisashi Endo, Yasuhiro Gotoh, Yanze Li, Daichi Morimoto, <u>Kimiho Omae</u>, Kento Tominaga, Romain Blanc-Mathieu, Yoshihito Takano, Tetsuya Hayashi, Keizo Nagasaki, Takashi Yoshida, Hiroyuki Ogata. **An optimized metabarcoding method for Mimiviridae**. *Microorganisms*, 8, 506. (2020) DOI: [10.3390/microorganisms8040506](https://doi.org/10.3390/microorganisms8040506)
 
-## 2022
+- [10] Yuto Fukuyama, Ayumi Tanimura, Masao Inoue, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Draft genome sequences of two thermophilic *Moorella* sp. strains, isolated from an acidic hot spring in Japan**. *Microbiol Resour Announc*, 8, e00663-19. (2019) DOI: [10.1128/MRA.00663-19](https://doi.org/10.1128/MRA.00663-19)
 
-- 14. Masao Inoue, <u>Kimiho Omae</u>, Issei Nakamoto, Ryoma Kamikawa, Takashi Yoshida, Yoshihiko Sako. **Biome-specific distribution of Ni-containing carbon monoxide dehydrogenases**. *Extremophiles*, 26, 9. (2022) DOI: [10.1007/s00792-022-01259-y](https://doi.org/10.1007/s00792-022-01259-y)
+- [9] <u>Kimiho Omae</u>, Yuto Fukuyama, Hisato Yasuda, Kenta Mise, Takashi Yoshida, Yoshihiko Sako. **Diversity and distribution of thermophilic hydrogenogenic carboxydotrophs revealed by microbial community analysis in sediments from multiple hydrothermal environments in Japan**. *Arch Microbiol*, 201, 969–982. (2019) DOI: [10.1007/s00203-019-01661-9](https://doi.org/10.1007/s00203-019-01661-9)
 
-## 2021
+- [8] Yuto Fukuyama, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Transcriptome analysis of a thermophilic and hydrogenogenic carboxydotroph *Carboxydothermus pertinax***. *Extremophiles*, 23, 389–398 (2019) DOI: [10.1007/s00792-019-01091-x](https://doi.org/10.1007/s00792-019-01091-x)
 
-- 13. <u>Kimiho Omae</u>, Tatsuki Oguro, Masao Inoue, Yuto Fukuyama, Takashi Yoshida, Yoshihiko Sako. **Diversity analysis of thermophilic hydrogenogenic carboxydotrophs by carbon monoxide dehydrogenase amplicon sequencing using new primers**. *Extremophiles*, 25, 61–76. (2021) DOI: [10.1007/s00792-020-01211-y](https://doi.org/10.1007/s00792-020-01211-y)
+- [7] Masao Inoue, Issei Nakamoto, <u>Kimiho Omae</u>, Tatsuki Oguro, Hiroyuki Ogata, Takashi Yoshida, Yoshihiko Sako. **Structural and phylogenetic diversity of anaerobic carbon-monoxide dehydrogenases**. *Front Microbiol*, 9, 3353. (2019) DOI: [10.3389/fmicb.2018.03353](https://doi.org/10.3389/fmicb.2018.03353)
 
-## 2020
+- [6] Yuto Fukuyama, <u>Kimiho Omae</u>, Yasuko Yoneda, Takashi Yoshida, Yoshihiko Sako. **Insight into energy conservation via alternative carbon monoxide metabolism in *Carboxydothermus pertinax* revealed by comparative genome analysis**. *Appl Environ Microbiol*, 84, e00458-18. (2018) DOI: [10.1128/AEM.00458-18](https://doi.org/10.1128/AEM.00458-18)
 
-- 12. Masao Inoue, Hikaru Izumihara, Yuto Fukuyama, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Carbon monoxide-dependent transcriptional changes in a thermophilic, carbon monoxide-utilizing, hydrogen-evolving bacterium *Calderihabitans maritimus* KKC1 revealed by transcriptomic analysis**. *Extremophiles*, 24, 551–564. (2020) DOI: [10.1007/s00792-020-01175-z](https://doi.org/10.1007/s00792-020-01175-z)
-- 11. Florian Prodinger, Hisashi Endo, Yasuhiro Gotoh, Yanze Li, Daichi Morimoto, <u>Kimiho Omae</u>, Kento Tominaga, Romain Blanc-Mathieu, Yoshihito Takano, Tetsuya Hayashi, Keizo Nagasaki, Takashi Yoshida, Hiroyuki Ogata. **An optimized metabarcoding method for Mimiviridae**. *Microorganisms*, 8, 506. (2020) DOI: [10.3390/microorganisms8040506](https://doi.org/10.3390/microorganisms8040506)
-
-## 2019
-
-- 10. Yuto Fukuyama, Ayumi Tanimura, Masao Inoue, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Draft genome sequences of two thermophilic *Moorella* sp. strains, isolated from an acidic hot spring in Japan**. *Microbiol Resour Announc*, 8, e00663-19. (2019) DOI: [10.1128/MRA.00663-19](https://doi.org/10.1128/MRA.00663-19)
-- 9. <u>Kimiho Omae</u>, Yuto Fukuyama, Hisato Yasuda, Kenta Mise, Takashi Yoshida, Yoshihiko Sako. **Diversity and distribution of thermophilic hydrogenogenic carboxydotrophs revealed by microbial community analysis in sediments from multiple hydrothermal environments in Japan**. *Arch Microbiol*, 201, 969–982. (2019) DOI: [10.1007/s00203-019-01661-9](https://doi.org/10.1007/s00203-019-01661-9)
-- 8. Yuto Fukuyama, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Transcriptome analysis of a thermophilic and hydrogenogenic carboxydotroph *Carboxydothermus pertinax***. *Extremophiles*, 23, 389–398 (2019) DOI: [10.1007/s00792-019-01091-x](https://doi.org/10.1007/s00792-019-01091-x)
-- 7. Masao Inoue, Issei Nakamoto, <u>Kimiho Omae</u>, Tatsuki Oguro, Hiroyuki Ogata, Takashi Yoshida, Yoshihiko Sako. **Structural and phylogenetic diversity of anaerobic carbon-monoxide dehydrogenases**. *Front Microbiol*, 9, 3353. (2019) DOI: [10.3389/fmicb.2018.03353](https://doi.org/10.3389/fmicb.2018.03353)
-
-## 2018
-
-- 6. Yuto Fukuyama, <u>Kimiho Omae</u>, Yasuko Yoneda, Takashi Yoshida, Yoshihiko Sako. **Insight into energy conservation via alternative carbon monoxide metabolism in *Carboxydothermus pertinax* revealed by comparative genome analysis**. *Appl Environ Microbiol*, 84, e00458-18. (2018) DOI: [10.1128/AEM.00458-18](https://doi.org/10.1128/AEM.00458-18)
-
-## 2017
-
-- 5. <u>Kimiho Omae</u>, Yasuko Yoneda, Yuto Fukuyama, Takashi Yoshida, Yoshihiko Sako. **Genomic analysis of *Calderihabitans maritimus* KKC1, a thermophilic, hydrogenogenic, carboxydotrophic bacterium isolated from marine sediment**. *Appl Environ Microbiol*, 83, e00832-17. (2017) DOI: [10.1128/AEM.00832-17](https://doi.org/10.1128/AEM.00832-17)<br>
+- [5] <u>Kimiho Omae</u>, Yasuko Yoneda, Yuto Fukuyama, Takashi Yoshida, Yoshihiko Sako. **Genomic analysis of *Calderihabitans maritimus* KKC1, a thermophilic, hydrogenogenic, carboxydotrophic bacterium isolated from marine sediment**. *Appl Environ Microbiol*, 83, e00832-17. (2017) DOI: [10.1128/AEM.00832-17](https://doi.org/10.1128/AEM.00832-17)<br>
 <span style="color:red">The electric micrograph of *C. maritimus* KKC1 was selected as a cover photo!</span><br>
 <img src="img/ASM_cover_KKC1.png" width="25%">
 
-- 4. Yosuke Nishimura, Hiroyasu Watai, Takashi Honda, Tomoko Mihara, <u>Kimiho Omae</u>, Simon Roux, Romain Blanc-Mathieu, Keigo Yamamoto, Pascal Hingamp, Yoshihiko Sako, Matthew B Sullivan, Susumu Goto, Hiroyuki Ogata, Takashi Yoshida. **Environmental viral genomes shed new light on virus-host interactions in the ocean**. *Msphere*, 2, e00359-16. (2017) DOI: [10.1128/mSphere.00359-16](https://doi.org/10.1128/mSphere.00359-16)
-- 3. Yuto Fukuyama, Tatsuki Oguro, <u>Kimiho Omae</u>, Yasuko Yoneda, Takashi Yoshida, Yoshihiko Sako. **Draft genome sequences of two hydrogenogenic carboxydotrophic bacteria, *Carboxydocella* sp. strains JDF658 and ULO1, isolated from two distinct volcanic fronts in Japan**. *Genome Announc*, 5, e00242-17. (2017) DOI: [10.1128/genomeA.00242-17](https://doi.org/10.1128/genomeA.00242-17)
-- 2. Yuto Fukuyama, <u>Kimiho Omae</u>, Yasuko Yoneda, Takashi Yoshida, Yoshihiko Sako. **Draft genome sequences of *Carboxydothermus pertinax* and *C. islandicus*, hydrogenogenic carboxydotrophic bacteria**. *Genome Announc*, 5, e01648-16. (2017) DOI: [10.1128/genomeA.01648-16](https://doi.org/10.1128/genomeA.01648-16)
+- [4] Yosuke Nishimura, Hiroyasu Watai, Takashi Honda, Tomoko Mihara, <u>Kimiho Omae</u>, Simon Roux, Romain Blanc-Mathieu, Keigo Yamamoto, Pascal Hingamp, Yoshihiko Sako, Matthew B Sullivan, Susumu Goto, Hiroyuki Ogata, Takashi Yoshida. **Environmental viral genomes shed new light on virus-host interactions in the ocean**. *Msphere*, 2, e00359-16. (2017) DOI: [10.1128/mSphere.00359-16](https://doi.org/10.1128/mSphere.00359-16)
 
-## 2015
+- [3] Yuto Fukuyama, Tatsuki Oguro, <u>Kimiho Omae</u>, Yasuko Yoneda, Takashi Yoshida, Yoshihiko Sako. **Draft genome sequences of two hydrogenogenic carboxydotrophic bacteria, *Carboxydocella* sp. strains JDF658 and ULO1, isolated from two distinct volcanic fronts in Japan**. *Genome Announc*, 5, e00242-17. (2017) DOI: [10.1128/genomeA.00242-17](https://doi.org/10.1128/genomeA.00242-17)
 
-- 1. Yasuko Yoneda, Sanae I Kano, Takashi Yoshida, Eitaro Ikeda, Yuto Fukuyama, <u>Kimiho Omae</u>, Shigeko Kimura-Sakai, Takashi Daifuku, Tetsuhiro Watanabe, Yoshihiko Sako. **Detection of anaerobic carbon monoxide-oxidizing thermophiles in hydrothermal environments**. *FEMS Microbiol Ecol*, 91, fiv093. (2015) DOI: [10.1093/femsec/fiv093](https://doi.org/10.1093/femsec/fiv093)
+- [2] Yuto Fukuyama, <u>Kimiho Omae</u>, Yasuko Yoneda, Takashi Yoshida, Yoshihiko Sako. **Draft genome sequences of *Carboxydothermus pertinax* and *C. islandicus*, hydrogenogenic carboxydotrophic bacteria**. *Genome Announc*, 5, e01648-16. (2017) DOI: [10.1128/genomeA.01648-16](https://doi.org/10.1128/genomeA.01648-16)
+
+- [1] Yasuko Yoneda, Sanae I Kano, Takashi Yoshida, Eitaro Ikeda, Yuto Fukuyama, <u>Kimiho Omae</u>, Shigeko Kimura-Sakai, Takashi Daifuku, Tetsuhiro Watanabe, Yoshihiko Sako. **Detection of anaerobic carbon monoxide-oxidizing thermophiles in hydrothermal environments**. *FEMS Microbiol Ecol*, 91, fiv093. (2015) DOI: [10.1093/femsec/fiv093](https://doi.org/10.1093/femsec/fiv093)
 
 # Reviews
 
-- 1. Yuto Fukuyama, Masao Inoue, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Anaerobic and hydrogenogenic carbon monoxide-oxidizing prokaryotes: Versatile microbial conversion of a toxic gas into an available energy**. Geoffrey Michael Gadd, Sima Sariaslani, eds. Advances in Applied Microbiology (Academic Press) 99-148. (2020) DOI: [10.1016/bs.aambs.2019.12.001](https://doi.org/10.1016/bs.aambs.2019.12.001)
+- [1] Yuto Fukuyama, Masao Inoue, <u>Kimiho Omae</u>, Takashi Yoshida, Yoshihiko Sako. **Anaerobic and hydrogenogenic carbon monoxide-oxidizing prokaryotes: Versatile microbial conversion of a toxic gas into an available energy**. Geoffrey Michael Gadd, Sima Sariaslani, eds. Advances in Applied Microbiology (Academic Press) 99-148. (2020) DOI: [10.1016/bs.aambs.2019.12.001](https://doi.org/10.1016/bs.aambs.2019.12.001)
 
 # Talks
 
-## 2023
-
 - <u>大前公保</u>、西村 祐貴、富永 賢人、岩崎渉「**環境障壁の突破の背後にある原核生物の遺伝子の二者択一進化**」第１７回日本ゲノム微生物学会年会、3O1-03、かずさアカデミアホール（千葉県木更津市）、2023年3月8日-2023年3月10日（2023年3月10日；口頭発表）
-
-## 2022
 
 - <u>大前公保</u>、西村 祐貴、富永 賢人、岩崎渉「**網羅的対偶遺伝学：遺伝子の二者択一進化を利用した機能未知遺伝子の新規機能予測法**」日本進化学会年大会第24回沼津大会、F-2、プラサヴェルデ（静岡県沼津市）、2022年8月4日-2022年8月7日（2022年8月6日；口頭発表）<br>
 <span style="color:red">ポスドク口頭発表賞 最優秀賞受賞！</span><br>
 
 - <u>大前公保</u>、⻄村祐貴、富永賢人、岩崎渉． 「**網羅的対偶遺伝学による機能未知遺伝子の新規機能予測法**」．第16回日本ゲノム微生物学会年会，オンライン．（2022年3月2日；口頭発表）
 
-## 2019
-
 - <u>大前公保</u>、福山宥斗、大黒達希、大神優祐、安田尚登、吉田天士、左子芳彦「**全原核生物の 16S rRNA 系統における一酸化炭素 (CO) デヒドロゲナーゼの分布パターンを利用した水素生成型 CO 資化菌の分子生態**」平成31年度日本水産学会春季大会、809、東京海洋大学（品川キャンパス）、2019年3月26日-3月29日（2019年3月27日；口頭発表）
 
-## 2018
-
 - <u>大前公保</u>、福山宥斗、大黒達希、大神優祐、安田尚登、吉田天士、左子芳彦「**火山性環境における一酸化炭素資化性菌の分布および多様性の解明**」平成30年度日本水産学会春季大会、704、東京海洋大学（品川キャンパス）、2018年3月27日-3月29日（2018年3月27日；口頭発表）
-
-## 2017
 
 - <u>Kimiho Omae</u>, Yasuko Yoneda, Yuto Fukuyama, Takashi Yoshida, Yoshihiko Sako. **Genomic analysis of *Calderihabitans maritimus* KKC1, a thermophilic hydrogenogenic carboxydotrophic bacterium isolated from marine sediment**. リトアニア（National Research Centre, Vilnius）、2017年8月29日
 
@@ -96,38 +71,24 @@ execute:
 - <u>大前公保</u>、福山宥斗、大黒達希、大神優祐、吉田天士、左子芳彦「**水素生成型一酸化炭素資化性菌の生態学的機能解明に向けた陸上熱水環境における微生物群集構造解析**」第19回マイリンバイオテクノロジー学会、0A-2、東北大学（葉山新キャンパス）、2017年6月3日-2017年6月4日（2017年6月4日；口頭発表） 
 - <u>大前公保</u>、福山宥斗、大黒達希、大神優祐、吉田天士、左子芳彦「**一酸化炭素資化性菌の生態学的機能解明に向けた火山性環境における微生物群集構造解析**」平成29年度日本水産学会春季大会、731、東京海洋大学（品川キャンパス）、2017年3月28日（口頭発表）
 
-## 2016
-
 - <u>大前公保</u>、米田恭子、福山宥斗、吉田天士、左子芳彦「**水素生成型新規一酸化炭素資化性好熱細菌Calderihabitans maritimusのゲノム解析**」第18回マリンバイオテクノロジー学会、PA-16、北海道大学（函館キャンパス）、2016年5月28日（ポスター発表）
 
-## 2015
-
 - <u>大前公保</u>、米田恭子、福山宥斗、吉田天士、左子芳彦「**水素生成型一酸化炭素資化性菌*Calderihabitans maritimus* KKC1と酢酸生成菌*Moorella* spp.の比較ゲノム解析**」平成27年度日本水産学会春季大会、731、東京海洋大学（品川キャンパス）、2015年3月27日-2015年3月31日（口頭発表）
-
-## 2014
 
 - <u>大前公保</u>、吉田天士、米田恭子、福山宥斗、左子芳彦「**海洋性水素生成型一酸化炭素資化性好熱細菌 *Calderihabitans maritimus* KKC1 のゲノム解析**」平成26年度日本水産学会秋季大会、330、九州大学（箱崎キャンパス）、2014年9月19日-2014年9月22日（口頭発表）
 
 # Posters
 
-## 2023
-
 - <u>大前 公保</u>、西村 祐貴、富永 賢人、服部 素之、岩崎 渉「**対偶ネットワークが浮き彫りにした塩分依存的な輸送体共役イオンの切り替わり進化**」日本微生物生態学会第36回大会、P084-B、アクトシティ浜松（静岡県浜松市）、2023年11月27日-2023年11月30日（2023年11月28-29日；ポスター発表）
-
-## 2022
 
 - <u>大前 公保</u>、西村 祐貴、富永 賢人、岩崎 渉「**原核生物の環境適応が駆動する遺伝子の二者択一進化**」日本微生物生態学会第35回大会、PA-41、札幌コンベンションセンター（北海道札幌市）、2022年10月31日-2022年11月3日（2022年11月1-2日；ポスター発表）<br>
 <span style="color:red">優秀ポスター賞 博士号取得者の部 優秀賞受賞（30演題中2位）！</span><br>
-
-## 2015
 
 - <u>Kimiho Omae</u>, Yasuko Yoneda, Yuto Fukuyama, Takashi Daifuku, Takashi Yoshida, Yoshihiko Sako. **Genomic adaptation of the thermophilic hydrogenogenic carboxydotrophic bacterium from marine sediment, *Calderihabitans maritimus* KKC1, driven by carbon monoxide dehydrogenases**. 2015日本微生物生態学会第30回大会、PH-109、土浦亀城プラザ、2015年10月17日-2015年10月20日（ポスター発表）
 
 - <u>大前公保</u>、米田恭子、福山宥斗、吉田天士、左子芳彦「**水素生成型一酸化炭素資化性好熱細菌*Calderihabitans maritimus* KKC1のゲノム解析**」第9回日本ゲノム微生物学会年会、2P-42（2St2-09）、神戸大学（六甲第2キャンパス）、2015年3月6日-2015年3月8日（ポスター発表）
 
 # Joint authorship (Talks and Posters)
-
-## 2022
 
 - 富永 賢人、西村 祐貴、<u>大前 公保</u>、鈴木 誉保、西村 陽介、吉澤 晋、岩崎 渉「**MAGから迫る海洋Flavobacteria科細菌の生態と進化**」日本微生物生態学会第35回大会、O5-3、札幌コンベンションセンター（北海道札幌市）、2022年10月31日-2022年11月3日（2022年11月1日；口頭発表）
 
@@ -140,18 +101,12 @@ execute:
 - ⻄村祐貴、<u>大前公保</u>、富永賢人、竹内峻平、増田幸子、 柴田ありさ、白須賢、岩崎渉「 **東京地下水圏に生息する未培養微生物群CPR/DPANNのメタゲノム解析**」第16回日本ゲノム微生物学会年会、O-28、オンライン、2022年3月2日-2022年3月4日（2022年3月4日；口頭発表）
 - 富永賢人、⻄村祐貴、<u>大前公保</u>、岩崎渉「**Vibrio科細菌のウイルス由来新規DNAヘリケースローダー遺伝子vdhLの発見**」第16回日本ゲノム微生物学会年会、O-23、オンライン、2022年3月2日-2022年3月4日（2022年3月4日；口頭発表）
 
-## 2019
-
 - 福山宥斗、<u>大前公保</u>、吉田天士、左子芳彦「**クロスオミックス解析を用いた水素生成型一酸化炭素 (CO) 資化性菌のCO代謝の解明**」平成31年度日本水産学会春季大会、2019年、口頭発表
-
-## 2018
 
 - 井上真男、中元一星、<u>大前公保</u>、大黒達希、吉田天士、左子芳彦「**一酸化炭素 (CO) 資化性菌の鍵酵素, CO デヒドロゲナーゼにおける構造と機能の多様性**」平成30年度日本水産学会春季大会、703、東京海洋大学（品川キャンパス）、2018年3月27日-3月29日（2018年3月27日；口頭発表） 
 
 - 中元一星、井上真男、<u>大前公保</u>、大黒達希、緒方博之、吉田天士、左子芳彦「**一酸化炭素 (CO) 資化性菌の鍵酵素、COデヒドロゲナーゼの系統学的多様性**」平成30年度日本水産学会秋季大会、2018年、口頭発表
 - Masao Inoue, Issei Nakamoto, <u>Kimiho Omae</u>, Tatsuki Oguro, Hiroyuki Ogata, Takashi Yoshida and Yoshihiko Sako. **Phylogenetic diversity of anaerobic carbon monoxide dehydrogenase, an ancient enzyme in carbon fixation and energy conservation**. International workshop on 50th anniversary of Thermus thermophilus discovery、2018年、ポスター発表
-
-## 2017
 
 - Yu Oinishi, Shin Fujiwara, Maho Yumiya, Yuto Fukuyama, <u>Kimiho Omae</u>, Takashi Yoshida and Yoshihiko Sako. **Isolation and characterization of a novel aerobic and hyperthermophilic archaeon isolated from a hot spring in Japan**. 日本水産学会創立85周年記念国際シンポジウム、SP08-09、東京海洋大学（品川キャンパス）、2017年9月22日-2017年9月24日（2017年9月22日；ポスター発表） 
 
@@ -159,14 +114,10 @@ execute:
 - 福山宥斗、<u>大前公保</u>、吉田天士、左子芳彦「**オーミックス解析を用いた水素生成型一酸化炭素 (CO) 資化性菌のCO代謝とその制御系の解明**」第19回マイリンバイオテクノロジー学会、0A-4、東北大学（葉山新キャンパス）、2017年6月3日-2017年6月4日（2017年6月4日；口頭発表） 
 - 福山宥斗、<u>大前公保</u>、吉田天士、左子芳彦「**網羅的転写解析による一酸化炭素 (CO) 資化性菌のCO代謝制御系の解明**」平成29年度日本水産学会春季大会、732、東京海洋大学（品川キャンパス）、2017年3月28日（口頭発表）
 
-## 2016
-
 - 大黒達希、福山宥斗、<u>大前公保</u>、吉田天士、左子芳彦「**水素生成型一酸化炭素資化性好熱菌の分離およびゲノム解析**」日本微生物生態学会 第31回大会、P-111、横須賀市文化会館、2016年10月23-24日（ポスター発表）
 
 - Yuto Fukuyama, <u>Kimiho Omae</u>, Yasuko Yoneda, Takashi Yoshida, Yoshihiko Sako. **Genome sequence and transcriptome analysis of hydrogenogenic carboxydotrophic bacterium, *Carboxydothermus pertinax***. Extremophiles 2016、P134、京都大学（吉田キャンパス）、2016年9月15日（ポスター発表）
 - 福山宥斗、<u>大前公保</u>、米田恭子、吉田天士、左子芳彦「**オーミックス解析を用いた一酸化炭素 (CO) 資化性菌のCOによる転写変動解析**」平成28年度日本水産学会春季大会、723、東京海洋大学（品川キャンパス）、2016年3月26日-2016年3月30日（口頭発表）
-
-## 2015
 
 - Yuto Fukuyama, <u>Kimiho Omae</u>, Yasuko Yoneda, Kyosuke Takao, Takashi Honda, Takashi Yoshida, Yoshihiko Sako. **RNA-Seq provides insights into the novel carbon monoxide metabolism in *Carboxydothermus pertinax***. 2015日本微生物生態学会第30回、PF-072、土浦亀城プラザ、2015年10月17日-2015年10月20日日（ポスター発表）
 
