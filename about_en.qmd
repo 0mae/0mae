@@ -11,6 +11,11 @@ execute:
 
 ::: {.scroll-box}
 
+**2025/03/26-28. Gave an oral presentation**<br>
+<div style="margin-left: 1em;">
+Society for the Study of the Origin and Evolution of Life Japan (SSOEL), The 49th Annual Meeting at Yokohama.
+</div>
+
 **2025/02/24. A preprint I co-authored is now available!**<br>
 <div style="margin-left: 1em;">
 Konno *et al*. "Repeatability of protein structural evolution following convergent gene fusions". [*bioRxiv* (2025)](https://doi.org/10.1101/2025.02.23.639786) / [X post (@utnk1)](https://x.com/utnk1/status/1894018943267795408)

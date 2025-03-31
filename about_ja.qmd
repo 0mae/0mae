@@ -11,6 +11,11 @@ execute:
 
 ::: {.scroll-box}
 
+**2025/03/26-28. 口頭発表を行いました。**<br>
+<div style="margin-left: 1em;">
+第49回生命の起原および進化学会学術講演会（横浜）
+</div>
+
 **2025/02/24. 共著に加わった論文のプレプリントが公開されました！**<br>
 <div style="margin-left: 1em;">
 Konno *et al*. "Repeatability of protein structural evolution following convergent gene fusions". [*bioRxiv* (2025)](https://doi.org/10.1101/2025.02.23.639786) / [X post (@utnk1)](https://x.com/utnk1/status/1894018943267795408)
