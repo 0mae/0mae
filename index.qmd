@@ -14,8 +14,7 @@ about:
       href: https://researchmap.jp/omaek
     - icon: globe-asia-australia
       text: Suzuki Lab.
-      href: https://www.riken.jp/research/labs/chief/geobiol_astrobiol/index.html
-      #href: https://suzukimicrobe.riken.jp/
+      href: https://suzukimicrobe.riken.jp/
 ---
 
 Research Scientist<br>
