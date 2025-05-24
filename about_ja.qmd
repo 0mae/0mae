@@ -11,6 +11,11 @@ execute:
 
 ::: {.scroll-box}
 
+**2025/05/10. 共著に加わった論文のプレプリントが公開されました！**<br>
+<div style="margin-left: 1em;">
+Nishimura *et al*. "CORGIAS: identifying correlated gene pairs by considering evolutionary history in a large-scale prokaryotic genome dataset". [*bioRxiv* (2025)](https://doi.org/10.1101/2025.05.07.652372) / [X post (@ynishimuraLv)](https://x.com/ynishimuraLv/status/1921396105838797230)
+</div>
+
 **2025/03/26-28. 口頭発表を行いました。**<br>
 <div style="margin-left: 1em;">
 第49回生命の起原および進化学会学術講演会（横浜）

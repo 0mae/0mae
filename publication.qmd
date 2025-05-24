@@ -11,7 +11,9 @@ execute:
 {{< ai google-scholar >}} Google Scholar
 </button>
 
-- [17] Naoki Konno, Keita Miyake, Satoshi Nishino, <u>Kimiho Omae</u>, Haruaki Yanagisawa, Saburo Tsuru, Yuki Nishimura, Masahide Kikkawa, Chikara Furusawa and Wataru Iwasaki. **Repeatability of protein structural evolution following convergent gene fusions**. *bioRxiv* February 24. (2025) DOI: [10.1101/2025.02.23.639786](https://doi.org/10.1101/2025.02.23.639786)<br>
+- [18*] Yuki Nishimura, <u>Kimiho Omae</u>, Kento Tominaga and Wataru Iwasaki. **CORGIAS: identifying correlated gene pairs by considering evolutionary history in a large-scale prokaryotic genome dataset**. *bioRxiv* May 24. (2025) DOI: [10.1101/2025.05.07.652372](https://doi.org/10.1101/2025.05.07.652372)<br>
+
+- [17*] Naoki Konno, Keita Miyake, Satoshi Nishino, <u>Kimiho Omae</u>, Haruaki Yanagisawa, Saburo Tsuru, Yuki Nishimura, Masahide Kikkawa, Chikara Furusawa and Wataru Iwasaki. **Repeatability of protein structural evolution following convergent gene fusions**. *bioRxiv* February 24. (2025) DOI: [10.1101/2025.02.23.639786](https://doi.org/10.1101/2025.02.23.639786)<br>
 [X post (@utnk1)](https://x.com/utnk1/status/1894018943267795408)
 
 - [16] Kento Tominaga, Shogo Ozaki, Shohei Sato, Tsutomu Katayama, Yuki Nishimura, <u>Kimiho Omae</u>, and Wataru Iwasaki. **Frequent Nonhomologous Replacement of Replicative Helicase Loaders by Viruses in *Vibrionaceae***. *Proc Natl Acad Sci USA* 121, e2317954121. (2024) DOI: [10.1073/pnas.2317954121](http://dx.doi.org/10.1073/pnas.2317954121)
