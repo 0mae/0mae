@@ -12,6 +12,7 @@ execute:
 </button>
 
 - [18*] Yuki Nishimura, <u>Kimiho Omae</u>, Kento Tominaga and Wataru Iwasaki. **CORGIAS: identifying correlated gene pairs by considering evolutionary history in a large-scale prokaryotic genome dataset**. *bioRxiv* May 24. (2025) DOI: [10.1101/2025.05.07.652372](https://doi.org/10.1101/2025.05.07.652372)<br>
+[X post (@ynishimuraLv)](https://x.com/ynishimuraLv/status/1921396105838797230)
 
 - [17*] Naoki Konno, Keita Miyake, Satoshi Nishino, <u>Kimiho Omae</u>, Haruaki Yanagisawa, Saburo Tsuru, Yuki Nishimura, Masahide Kikkawa, Chikara Furusawa and Wataru Iwasaki. **Repeatability of protein structural evolution following convergent gene fusions**. *bioRxiv* February 24. (2025) DOI: [10.1101/2025.02.23.639786](https://doi.org/10.1101/2025.02.23.639786)<br>
 [X post (@utnk1)](https://x.com/utnk1/status/1894018943267795408)
